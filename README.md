@@ -1,6 +1,6 @@
 # DGE-analysis (macrophage polarization)
 
-Differential gene expression analysis with DESeq2 and limma-vvom
+Differential gene expression analysis with DESeq2 and limma-voom
 Data taken from the following study [1]
 
 Count matrices and preprocessing perfomerd in Galaxy
@@ -35,6 +35,5 @@ Jupyter notebook 2 – limma voom analysis (R core)
 (9) Plots
 
 
-References: [1] https://bioconductor.org/packages/release/workflows/vignettes/RNAseq123/inst/doc/limmaWorkflow.html#reading-in-count-data
-
-[2] NCBI project, PRJNA258286 - Bone marrow-derived macrophages (BMDMs) treated with or without LPS and IFNr in the presence or absence of Wy14643
+References: 
+[1] NCBI project, PRJNA258286 - Bone marrow-derived macrophages (BMDMs) treated with or without LPS and IFNr in the presence or absence of Wy14643
